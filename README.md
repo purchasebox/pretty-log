@@ -1,6 +1,6 @@
 Pretty-Log
 ==========================
-Simple log messages for NodeJS.
+Fork of pretty-log for NodeJS.
 
 [![NPM](https://nodei.co/npm/pretty-log.png)](https://nodei.co/npm/pretty-log/)
 
@@ -16,7 +16,7 @@ Pretty-log provides the logs: error, warn, success and debug
 
   log.error('MESSAGE');
   log.warn('MESSAGE');
-  log.success('MESSAGE');
+  log.info('MESSAGE');
   log.debug('MESSAGE');
 ```
 ## Output
